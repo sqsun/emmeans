@@ -15,7 +15,7 @@ Authors@R: c(person("Russell V.", "Lenth", role = c("aut", "cre", "cph"),
     person("Julia", "Piaskowski", role = "ctb"),
     person("Hannes", "Riebl", role = "ctb"),
     person("Henrik", "Singmann", role = "ctb"))
-Depends: R (>= 4.1.0)
+Depends: R (>= 4.0.0)
 Imports: estimability (>= 1.4.1), graphics, methods, numDeriv, stats, utils,
          mvtnorm
 Suggests: bayesplot, bayestestR, biglm, brms, car, coda (>= 0.17), compositions,
